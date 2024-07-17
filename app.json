@@ -4,7 +4,7 @@
   "description": "Simple lightweight whatsapp bot",
   "logo": "https://imgur.com/D60nScQ.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
-  "repository": "https://github.com/V-E-N-O-X/IRIS-MD",
+  "repository": "https://github.com/dark-tech-zone/IRIS-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -27,12 +27,12 @@
       "value": ""
     },
     "SUDO": {
-      "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
+      "description": "919310763037",
       "required": true,
       "value": "8801975492880"
     },
     "INFO": {
-      "description": "Enter the Type of pic & ownername & botname u want",
+      "description": "KINF-MD BOT",
       "required": false,
       "value": "ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg"
     },
@@ -49,7 +49,7 @@
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "public"
+      "value": "private"
     }
   },
   "buildpacks": [
