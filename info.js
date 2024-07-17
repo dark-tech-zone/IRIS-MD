@@ -51,10 +51,10 @@ module.exports = {
     IG: process.env.IG || 'https://instagram.com/sla.sher_/',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
-    AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
+    SUDO: process.env.SUDO || '919310763037',
+    AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'false',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
-    MODE: process.env.MODE || 'public',
+    MODE: process.env.MODE || 'private',
     STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
     HAPP: process.env.HAPP || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
     HKEY: process.env.HKEY || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
