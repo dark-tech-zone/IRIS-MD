@@ -1,6 +1,6 @@
 {
   "name": "IRIS-MD",
-  "version": "1.2.7",
+  "version": "1.2.8.01",
   "description": "Lightweight whatsapp bot",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "@viper-x/fancytext": "^1.0.2",
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "^6.7.5",
     "acrcloud": "^1.4.0",
     "axios": "^1.2.2",
     "browser-id3-writer": "^4.4.0",
